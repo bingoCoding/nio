@@ -1,0 +1,12 @@
+D:
+cd tool\tool\hugo\site\bingoCoding
+del content\post\aaaaa.md
+hugo new post/aaaaa.md
+cd \tool\tool\Sublime Text 3
+sublime_text.exe \tool\tool\hugo\site\bingoCoding\content\post\aaaaa.md
+exit
+就是发垃圾sf
+分撒酒疯
+四到位
+分撒娇哦邪恶
+收废品
